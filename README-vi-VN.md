@@ -28,11 +28,11 @@ Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời l�
 
 ## Mục lục
 
-- [Quá trình và phương pháp học này của tôi là như thế nào?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
+- [phương pháp học này là như thế nào?](#what-is-it)
+- [Tại sao tôi lại dùng phương pháp này](#why-use-it)
+- [Làm sao để áp dụng ](#how-to-use-it)
 - [Follow me](#follow-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [Bạn không thông minh à? Tự tin lên nào!](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
@@ -60,29 +60,29 @@ Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời l�
 
 ---
 
-## Why use it?
+## Tại sao tôi lại sử dụng phương pháp này
 
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
-Think about my interest in machine learning:
-- [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
+Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy". Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
+ Nhưng trong đầu tôi luôn có nhưng câu hỏi rằng:
+- [Tôi có thể học "Học máy" và tìm được một công việc liên quan khi không có bằng cấp về Khoa học máy tính được không?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
-- [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
+- [Rồi thì một lập trình viên tự học "Học máy" lại chưa có kinh nghiệm về nó thì có tìm được một công việc liên quan đến "Học máy" hay không  ?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
     - *"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
-- [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
+- [Công việc về "Học máy" thì đòi hỏi những kỹ năng gì?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
     - *"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
     - *"Probability, distributed computing, and Statistics."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
-I find myself in times of trouble.
+Và cuối cùng tôi tìm được câu trả lời cho chính mình.
 
-AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-- Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
-- Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
+AFAIK, [Có hai khía cạnh về học máy như sau:](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+- "Học máy" theo hướng thực hành và áp dụng: Về cơ bản sẽ là áp dụng những gì đã được tạo để truy vấn cơ sở dữ liệu, tinh chỉnh dữ liệu, viết code di chuyển dữ liệu hay tạo ra những chương trình để bóc tách và khai phá dữ liệu từ những đống dữ liệu hỗn độn.
+- "Học máy" theo hướng lý thuyết: Điều này lại liên quan nhiều đến toán học, tính trừu tượng cao.
 
-I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
+Tôi nghĩ cách học hiệu quả nhất chính là ['thực hành — học — thực hành'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985). Nghĩa là chúng ta nên bắt đầu với những ứng dụng, dự án mà đã áp dụng "Học máy". Trải nhghiệm với những ứng dụng, dự án đó, xem nó hoạt động ra sao. Sau đó từ những trải nghiệm đó, tôi sẽ có những thắc mắc, câu hỏi là làm sao ứng dụng đó lại làm được như thế, nó làm như thế nào,... Đó là những động lực để thúc đẩy tôi đi tìm câu trả lời, là lúc mà  ta sẽ search google, đọc sách, tìm hiểu lý thuyết, khái niệm về "Học máy". Sau giai đoạn này, tôi lại quay trở lại với những ứng dụng, dự án trước đó, cùng với những hiểu biết nhất định về "Học máy" đã thì sẽ nắm được phần nào. Cứ thế tiếp tục quá trình 'thực hành — học — thực hành'.
 
- It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
+ Đây là một kế hoạch dài hạn, với tôi sẽ là vài năm liền. Nếu bạn đã quen với điều này thì kế hoạch của bạn có thể ngắn hơn tôi.
 
-## How to use it
+## Áp dụng phương pháp này như thế nào?
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
