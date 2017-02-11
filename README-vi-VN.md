@@ -1,8 +1,8 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# Quá trình và phương pháp học: "Học máy" dành cho các kỹ sư phần mềm
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
-    <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
+    <img alt="Quá trình học: Học máy dành cho các kỹ sư phần mềm" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
   </a>
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
@@ -12,24 +12,23 @@
   </a>
 </p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Nguồn cảm hứng từ [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
-## What is it?
+## Vậy quá trình và phương pháp học này của tôi là như thế nào?
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
+Tôi có một kế hoạch dài hạn trong nhiều tháng trời, đó là chuyển hướng nghề nghiệp từ một lập trình viên di động (tôi tự học lập trình và không có bằng cấp) trở thành một kỹ sư học máy.
 
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
+Mục đích chính của tôi là làm sao tìm ra được phương pháp học "Học máy" (Machine Learning) cho những người không chuyên sâu về Toán học.
+Tôi đã dùng phương pháp học "top-down" và "results-first" dành cho các kỹ sư phần mềm, nó rất hay và hiệu quả.
 
-Please, feel free to make any contributions you feel will make it better.
+Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời lời góp ý nhé.
 
 ---
 
-## Table of Contents
+## Mục lục
 
-- [What is it?](#what-is-it)
+- [Quá trình và phương pháp học này của tôi là như thế nào?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
