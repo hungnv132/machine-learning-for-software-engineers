@@ -28,9 +28,9 @@ Sau khi bạn đọc xong kế hoạch này của tôi, hay cho tôi vời lời
 
 ## Mục lục
 
-- [Kế hoạch này là gì?](#what-is-it)
-- [Tại sao tôi lại đặt ra kế hoạch này](#why-use-it)
-- [Làm sao để thực hiện được kế hoạch](#how-to-use-it)
+- [Kế hoạch này là gì?](#Kế-hoạch-này-là-gì?)
+- [Tại sao tôi lại đặt ra kế hoạch này?](#Tại-sao-tôi-lại-đặt-ra-kế-hoạch-này?)
+- [Làm sao để thực hiện được kế hoạch?](#Làm-sao-để-thực-hiện-được-kế-hoạch?)
 - [Follow me](#follow-me)
 - [Đừng sợ nếu bạn không giỏi!](#dont-feel-you-arent-smart-enough)
 - [Tìm video để học](#about-video-resources)
