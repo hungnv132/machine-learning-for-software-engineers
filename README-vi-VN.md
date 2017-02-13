@@ -83,7 +83,7 @@ Tôi nghĩ cách học hiệu quả nhất chính là ['thực hành — học �
  Đây là một kế hoạch dài hạn, với tôi sẽ là vài năm liền. Nếu bạn đã quen với điều này thì thời gian của bạn có thể ngắn hơn tôi.
 
 ## Áp dụng phương pháp này như thế nào?
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+Những mục bên dưới là những điều khái quát, ý chính mà tôi đã liệt kê theo trình tự từ trên xuống.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
