@@ -1,4 +1,4 @@
-# Quá trình và phương pháp học: "Học máy" dành cho các kỹ sư phần mềm
+# Kế hoạch học: "Học máy" dành cho các kỹ sư phần mềm
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -15,54 +15,54 @@
 Nguồn cảm hứng từ [Google Interview University](https://github.com/jwasham/google-interview-university).
 
 
-## Vậy quá trình và phương pháp học này của tôi là như thế nào?
+## Kế hoạch của tôi là gì?
 
-Tôi có một kế hoạch dài hạn trong nhiều tháng trời, đó là chuyển hướng nghề nghiệp từ một lập trình viên di động (tôi tự học lập trình và không có bằng cấp) trở thành một kỹ sư học máy.
+Tôi có một kế hoạch dài hạn trong nhiều tháng trời, đó là chuyển hướng nghề nghiệp từ một lập trình viên di động (tôi tự học lập trình và không có bằng cấp) trở thành một kỹ sư "Học máy".
 
 Mục đích chính của tôi là làm sao tìm ra được phương pháp học "Học máy" (Machine Learning) cho những người không chuyên sâu về Toán học.
 Tôi đã dùng phương pháp học "top-down" và "results-first" dành cho các kỹ sư phần mềm, nó rất hay và hiệu quả.
 
-Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời lời góp ý nhé.
+Sau khi bạn đọc xong kế hoạch này của tôi, hay cho tôi vời lời góp ý nhé.
 
 ---
 
 ## Mục lục
 
-- [phương pháp học này là như thế nào?](#what-is-it)
-- [Tại sao tôi lại dùng phương pháp này](#why-use-it)
-- [Làm sao để áp dụng ](#how-to-use-it)
+- [Kế hoạch này là gì?](#what-is-it)
+- [Tại sao tôi lại đặt ra kế hoạch này](#why-use-it)
+- [Làm sao để thực hiện được kế hoạch](#how-to-use-it)
 - [Follow me](#follow-me)
-- [Bạn không đủ giỏi à? Tự tin lên nào!](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Motivation](#motivation)
-- [Machine learning overview](#machine-learning-overview)
-- [Machine learning mastery](#machine-learning-mastery)
-- [Machine learning is fun](#machine-learning-is-fun)
+- [Đừng sợ nếu bạn không giỏi!](#dont-feel-you-arent-smart-enough)
+- [Tìm video để học](#about-video-resources)
+- [Kiến thức cần biết](#prerequisite-knowledge)
+- [Dự định hằng ngày](#the-daily-plan)
+- [Tạo động lực](#motivation)
+- [Tổng quan về Machine learning](#machine-learning-overview)
+- [Sự kỳ diệu của Machine learning](#machine-learning-mastery)
+- [Machine learning thật thú vị](#machine-learning-is-fun)
 - [Inky Machine Learning](#inky-machine-learning)
 - [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
-- [Stories and experiences](#stories-and-experiences)
-- [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Beginner Books](#beginner-books)
-- [Practical Books](#practical-books)
+- [Những trải nghiệm](#stories-and-experiences)
+- [Những thuật toán về Machine Learning](#machine-learning-algorithms)
+- [Sách dành cho người mới bắt đầu](#beginner-books)
+- [Sách thực hành](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
 - [Video Series](#video-series)
 - [MOOC](#mooc)
 - [Resources](#resources)
-- [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
+- [Hãy đóng góp cho cộng đồng](#becoming-an-open-source-contributor)
 - [Games](#games)
 - [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Interview Questions](#interview-questions)
-- [My admired companies](#my-admired-companies)
+- [Cộng đồng](#communities)
+- [Hội thảo](#conferences)
+- [Câu hỏi phỏng vấn](#interview-questions)
+- [Nơi tôi muốn làm việc](#my-admired-companies)
 
 ---
 
-## Tại sao tôi lại sử dụng phương pháp này?
+## Tại sao tôi lại đặt ra kế hoạch này?
 
-Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy". Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc (Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
+Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy" (Machine learning engineer). Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc (Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
  Nhưng trong đầu tôi luôn có nhưng câu hỏi rằng:
 - [Tôi có thể học "Học máy" và tìm được một công việc về nó khi không có bằng cấp về Khoa học máy tính được không?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
@@ -74,7 +74,7 @@ Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch củ
 
 Và cuối cùng tôi tìm được câu trả lời cho chính mình.
 
-AFAIK, [Có hai khía cạnh về học máy như sau](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+AFAIK, [Có hai khía cạnh về "Học máy" như sau](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
 - "Học máy" theo hướng thực hành và áp dụng: Về cơ bản sẽ là áp dụng những gì đã được tạo để truy vấn cơ sở dữ liệu, tinh chỉnh dữ liệu, viết code di chuyển dữ liệu hay tạo ra những chương trình để bóc tách và khai phá dữ liệu từ những đống dữ liệu hỗn độn.
 - "Học máy" theo hướng lý thuyết: Điều này lại liên quan nhiều đến toán học, tính trừu tượng cao.
 
@@ -82,7 +82,7 @@ Tôi nghĩ cách học hiệu quả nhất chính là ['thực hành — học �
 
  Đây là một kế hoạch dài hạn, với tôi sẽ là vài năm liền. Nếu bạn đã quen với điều này thì thời gian của bạn có thể ngắn hơn tôi.
 
-## Áp dụng phương pháp này như thế nào?
+## Thực hiện kế hoạch này như thế nào?
 Những mục bên dưới là những điều khái quát, ý chính mà tôi đã liệt kê theo trình tự từ trên xuống.
 
 Mỗi phần tôi sử dụng ngôn ngữ đánh dấu "Markdown" của Github để tạo ra một danh sách các task mình sẽ làm, và đánh dấu [x] khi hoàn thành mỗi task.
@@ -91,7 +91,7 @@ Mỗi phần tôi sử dụng ngôn ngữ đánh dấu "Markdown" của Github �
 
 Bạn có thể tìm hiểu thêm về Github markdown [tại đây](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Theo dõi tôi
+## Follow me
 Tôi là một kỹ sư phần mềm người Việt Nam. Điều tôi mong muốn của tôi là được làm việc ở nước Mỹ.
 
 Thời gian tôi dành cho kế hoạch này của mình là khoảng 4 giờ đồng hồ sau khi đi làm về..
@@ -104,18 +104,18 @@ Và tôi vẫn đang tiếp tục trên hành trên của mình: Keep going! .
 |:---:|
 | USA as heck |
 
-## Bạn không đủ giỏi à? Tự tin lên nào!
-Nói thật với bạn, tôi thực sự cảm thấy bế tắc về những khóa học và những quyển sách, mà toàn nhắc đến những kiến thức như Giải tích, Thống kê, Đại số Tuyến tính là những thứ thiết yếu mà tôi phải có. Nhưng rốt cuộc vẫn không biết mình nên bắt đầu như thế nào.
+## Đừng sợ nếu bạn không giỏi!
+Tôi thực sự cảm thấy bế tắc về những khóa học và những quyển sách, mà toàn nhắc đến những kiến thức như Giải tích, Thống kê, Đại số Tuyến tính là những thứ thiết yếu mà tôi phải có. Nhưng rốt cuộc vẫn không biết mình nên bắt đầu như thế nào.
 
-- [Nếu bạn không giỏi Toán thì thế nào?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 kỹ thuật giúp bạn hiểu những thuật toán học máy mà không cần giỏi Toán](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
+- [Nếu bạn không giỏi Toán thì như thế nào?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
+- [5 kỹ thuật giúp bạn hiểu những thuật toán "Học máy" mà không cần giỏi Toán](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
 - [Học "Học máy" như thế nào đây?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
 
 ## Tìm Video để học
 
-Để có được những video hướng dẫn học bạn có thể đăng ký tham gia vào các khóa học online trên Coursea or Edx. Chúng hoàn toàn miễn phí, nhưng để tham gia được vào những khóa đó bạn phải đợi đến khi có đợt đăng ký mới, thời gian đợi có khi mất vài tháng. Trong những mục bên dưới sẽ cập nhật đường link video theo thứ tự từng bài học một.
+Để có được những video hướng dẫn học bạn có thể đăng ký tham gia vào các khóa học online trên Coursea hoặc Edx. Chúng hoàn toàn miễn phí, nhưng để tham gia được vào những khóa đó bạn phải đợi đến khi có đợt đăng ký mới, thời gian đợi có khi mất vài tháng. Trong những mục bên dưới sẽ cập nhật đường link video theo thứ tự từng bài học một.
 
-## Kiến thức cần phải biết
+## Kiến thức cần biết
 
 Mục này là những thông tin, kiến thức cần biết trước khi tôi bắt đầu kế hoạch của mình.
 
@@ -130,7 +130,7 @@ Mỗi ngày tôi sẽ chọn 1 chủ đề từ danh sách để học, đọc v
 
 Mỗi chủ đề đưa ra thì không cần thiết phải hiểu được hết nó trong 1 ngày.
 
-# Tạo động lực cho bản thân
+# Tạo động lực
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Tổng quan về Machine learning
@@ -162,7 +162,7 @@ Mỗi chủ đề đưa ra thì không cần thiết phải hiểu được hế
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine learning: Hướng dẫn chuyên sâu, không nặng về kỹ thuật
+## Machine learning: Hướng dẫn chuyên sâu, không mang tính kỹ thuật
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
@@ -406,5 +406,5 @@ Mỗi chủ đề đưa ra thì không cần thiết phải hiểu được hế
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
 
 
-## Công ty tôi muốn được làm việc
+## Nơi tôi muốn được làm việc
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
