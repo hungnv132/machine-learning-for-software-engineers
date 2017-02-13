@@ -15,7 +15,7 @@
 Nguồn cảm hứng từ [Google Interview University](https://github.com/jwasham/google-interview-university).
 
 
-## Kế hoạch của tôi là gì?
+## Kế hoạch này là gì?
 
 Tôi có một kế hoạch dài hạn trong nhiều tháng trời, đó là chuyển hướng nghề nghiệp từ một lập trình viên di động (tôi tự học lập trình và không có bằng cấp) trở thành một kỹ sư "Học máy".
 
@@ -60,7 +60,7 @@ Sau khi bạn đọc xong kế hoạch này của tôi, hay cho tôi vời lời
 
 ---
 
-## Tại sao tôi lại đặt ra kế hoạch này?
+## ạiT sao tôi lại đặt ra kế hoạch này?
 
 Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy" (Machine learning engineer). Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc (Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
  Nhưng trong đầu tôi luôn có nhưng câu hỏi rằng:
