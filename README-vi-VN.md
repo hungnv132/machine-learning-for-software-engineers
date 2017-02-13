@@ -32,7 +32,7 @@ Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời l�
 - [Tại sao tôi lại dùng phương pháp này](#why-use-it)
 - [Làm sao để áp dụng ](#how-to-use-it)
 - [Follow me](#follow-me)
-- [Bạn không thông minh à? Tự tin lên nào!](#dont-feel-you-arent-smart-enough)
+- [Bạn không đủ giỏi à? Tự tin lên nào!](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
@@ -62,7 +62,7 @@ Sau khi bạn đọc xong phương pháp này của tôi, hay cho tôi vời l�
 
 ## Tại sao tôi lại sử dụng phương pháp này?
 
-Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy". Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
+Hiện giờ, tôi thì vẫn đang tiếp tục thực hiện kế hoạch của mình để trong một tương lai gần tôi sẽ là một kỹ sư "Học máy". Từ năm 2011, tôi là một lập trình viên di động(Android, iOS, Blackberry). Tôi chỉ có bằng kỹ sư phần mềm, chứ không có bằng về Khoa học máy tính, do đó, lượng kiến thức và hiểu biết của tôi về Giải tích(Calculus), Đại số tuyến tính (Linear Algebra), Toán rời rạc (Discrete Mathematics) và Xác suất thống kê(Discrete Mathematics) khá là hạn chế. 
  Nhưng trong đầu tôi luôn có nhưng câu hỏi rằng:
 - [Tôi có thể học "Học máy" và tìm được một công việc về nó khi không có bằng cấp về Khoa học máy tính được không?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
@@ -85,18 +85,18 @@ Tôi nghĩ cách học hiệu quả nhất chính là ['thực hành — học �
 ## Áp dụng phương pháp này như thế nào?
 Những mục bên dưới là những điều khái quát, ý chính mà tôi đã liệt kê theo trình tự từ trên xuống.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+Mỗi phần tôi sử dụng ngôn ngữ đánh dấu "Markdown" của Github để tạo ra một danh sách các task mình sẽ làm, và đánh dấu [x] khi hoàn thành mỗi task.
 
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
+- [x] Tạo ra một git branch mới, và đánh dấu như này: [x]
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+Bạn có thể tìm hiểu thêm về Github markdown [tại đây](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Follow me
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
+## Theo dõi tôi
+Tôi là một kỹ sư phần mềm người Việt Nam. Điều tôi mong muốn của tôi là được làm việc ở nước Mỹ.
 
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
+Thời gian tôi dành cho kế hoạch này của mình là khoảng 4 giờ đồng hồ sau khi đi làm về..
 
-I'm on the journey.
+Và tôi vẫn đang tiếp tục trên hành trên của mình: Keep going! .
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
@@ -104,38 +104,36 @@ I'm on the journey.
 |:---:|
 | USA as heck |
 
-## Don't feel you aren't smart enough
-I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
+## Bạn không đủ giỏi à? Tự tin lên nào!
+Nói thật với bạn, tôi thực sự cảm thấy bế tắc về những khóa học và những quyển sách, mà toàn nhắc đến những kiến thức như Giải tích, Thống kê, Đại số Tuyến tính là những thứ thiết yếu mà tôi phải có. Nhưng rốt cuộc vẫn không biết mình nên bắt đầu như thế nào.
 
-- [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
-- [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
+- [Nếu bạn không giỏi Toán thì thế nào?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
+- [5 kỹ thuật giúp bạn hiểu những thuật toán học máy mà không cần giỏi Toán](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
+- [Học "Học máy" như thế nào đây?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
 
-## About Video Resources
+## Tìm Video để học
 
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
+Để có được những video hướng dẫn học bạn có thể đăng ký tham gia vào các khóa học online trên Coursea or Edx. Chúng hoàn toàn miễn phí, nhưng để tham gia được vào những khóa đó bạn phải đợi đến khi có đợt đăng ký mới, thời gian đợi có khi mất vài tháng. Trong những mục bên dưới sẽ cập nhật đường link video theo thứ tự từng bài học một.
 
-## Prerequisite Knowledge
+## Kiến thức cần phải biết
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+Mục này là những thông tin, kiến thức cần biết trước khi tôi bắt đầu kế hoạch của mình.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [ ] [Sự khác nhau giữa Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, và Big Data là gì?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [ ] [Học như thế nào](https://www.coursera.org/learn/learning-how-to-learn)
+- [ ] [Dừng có ngắt quãng, duy trì đều và liên tục](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [ ] [Học theo cách của bạn](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
-## The Daily Plan
+## Kế hoạc hằng ngày
 
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
+Mỗi ngày tôi sẽ chọn 1 chủ đề từ danh sách để học, đọc và tìm hiểu về chủ đề đó, note lại những điều cần thiết, sử dụng Python hoặc R để thực hành.
 
-Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
+Mỗi chủ đề đưa ra thì không cần thiết phải hiểu được hết nó trong 1 ngày.
 
-# Motivation
+# Tạo động lực cho bản thân
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
-## Machine learning overview
+## Tổng quan về Machine learning
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
@@ -145,14 +143,14 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
-## Machine learning mastery
+## Sự kỳ diệu của Machine learning
 - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
-## Machine learning is fun
+## Machine learning thật thú vị!
 - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
 - [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
 - [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
@@ -164,14 +162,14 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine learning: an in-depth, non-technical guide
+## Machine learning: Hướng dẫn chuyên sâu, không nặng về kỹ thuật
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
-## Stories and experiences
+## Những trải nghiệm
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
@@ -185,7 +183,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
-## Machine Learning Algorithms
+## Những thuật toán về Machine Learning
 - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
@@ -194,12 +192,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
-## Beginner Books
+## Sách danh cho người bắt đầu
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
 - [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
 - [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
-## Practical Books
+## Sách thực hành
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
@@ -348,7 +346,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 - [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
-## Becoming an Open Source Contributor
+## Hãy đóng góp cho cộng mã nguồn mở
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
@@ -369,7 +367,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
 
-## Communities
+## Cộng đồng online
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
@@ -389,13 +387,13 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-## Conferences
+## Hội thảo
 - Neural Information Processing Systems ([NIPS](https://nips.cc/))
 - IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
 - IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
 - International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
 
-## Interview Questions
+## Những câu hỏi phỏng vấn
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
 - [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
@@ -408,5 +406,5 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
 
 
-## My admired companies
+## Công ty tôi muốn được làm việc
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
