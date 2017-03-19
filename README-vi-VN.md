@@ -72,31 +72,29 @@ Do đó, điều mà mình quan tâm về Machine Learning sẽ là:
     - *"Đầu tiên, bạn cần có một nền tảng tốt về Toán học. Machine Learning là một chủ đề khó và nâng cao mà hầu hết những tài liệu về nó đều khuyên bạn nên có nển tảng về toán. Thứ hai, Machine Learning là một chủ đề chung và rất rộng, trong đó có rất nhiều vấn đề nhỏ với những năng năng riêng biệt. Bạn có thể xem các khóa học, giáo trình hay tài liệu về Machine Learning của 'MS program'"* [Uri](http://softwareengineering.stackexchange.com/a/79717)
     - *"Xác xuất, tính toán phân tán, và Thống kê."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
-Qua những tìm hiểu đó mình cũng đã hiểu hơn về khả năng của mình.
+Qua những tìm hiểu đó mình cũng đúc kết được:
 
- [Có hai kiều về Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+ [Có hai kiểu về Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
 - Machine Learning theo hướng thực hành: Liên quan đến truy vấn cơ sở dữ liệu, làm sách dữ liệu, viết script để chuyển đổi data và gắn kết thuật toán với các thư viện để giải quyết vấn đề.
 - Machine Learning thiên về lý thuyết: Liên quan tới toán học, lý thuyết, nghiên cứu khoa học.
 
-I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
+Mình nghĩ cách tốt nhất là tập trung vào việc thực hành, theo kiểu: ['thực hành — tìm hiểu — thực hành'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985). Nghĩa là đầu tiên các bạn sẽ làm quen với một vài bài toán và thực hành các giải pháp của bài toán đó, để làm quen với hướng xử lý và 1 vài thuật ngữ về Machine Learning. Sau đó mới có thể học lý thuyết trong sách. Cứ thể lặp lại thì các bạn có thể nắm được rõ về bản chất của Machine Learning. Như vậy sẽ dễ tiếp cận hơn việc đọc sách khô khan.
 
- It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
+ Đây là một kế hoạch dài hạn, với mình thì sẽ mất vài năm để theo đuổi, còn nếu bạn đã có kiến thức nền tảng tốt thì sẽ mất ít hơn.
 
-## How to use it
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+## Cách áp dụng phương pháp này
+Những thứ bên dưới chỉ là phác thảo, chung chung, các bạn nên xắp sếp các mục theo thứ tự từ trên xuống dưới.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+Mình sử dụng markdown của Github để tạo danh mục và cập nhật quá trình học của mình.
 
 - [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[Xem thêm về Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Follow me
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
+Mình là một kỹ sư phần mềm người Việt Nam. Mình có mong muốn là được làm việc ở nước Mỹ.
 
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey.
+Thời gian mình dành để thực hiện kế này trong ngày là khoảng 4 giờ đồng hồ sau khi đi làm về.
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
@@ -104,35 +102,33 @@ I'm on the journey.
 |:---:|
 | USA as heck |
 
-## Don't feel you aren't smart enough
-I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
+## Đừng lo khi bạn chưa đủ thông minh
+Hầu hết những tài liệu, sách, hay các khóa học về Machine Learning đều khuyên là cần phải có nền tảng tốt về toán như: Đại số tuyến tính, xác suất thống kê hay toán rời rạc. Nhưng dốt cuộc mình vẫn không biết làm sao để bắt đầu...
 
-- [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
-- [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
+- [Sẽ ra sao nếu tôi không giỏi toán?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
+- [5 Kỹ thuật để hiểu các thuật toán của Machine learning khi không giỏi toán](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
+- [Tôi nên học Machine Learning như thế nào?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
 
-## About Video Resources
+## Nguồn video tham khảo
 
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
+Một số video chỉ có khi tham gia vào khóa học trên Coursera hay EdX. Chúng hoàn toàn miễn phí nhưng phải chờ vài tháng các khóa học đó mới mở tiếp. Vì vậy mình dự định sẽ add những link video vào bài viết này để các bạn dễ kiếm.
 
-## Prerequisite Knowledge
+## Những kiến thức cần có
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+Dưới đây là những thứ mà mình cần phải học trước khi bắt đâu thực hiện kế hoạch này:
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [ ] [Phân biệt: Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [ ] [Đừng ngắt ngoãng](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [ ] [Làm sao để học theo cách của bạn](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
-## The Daily Plan
+## Kế hoạch hàng ngày
 
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
+Mỗi chủ đề đưa ra thì không nhất thiết phải hoàn thành hay phải hiểu hết nó trong một ngày.
 
-Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
+Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi thực hành các bài tập, sử dụng Python hoặc R.
 
-# Motivation
+# Động lực
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
