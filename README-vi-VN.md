@@ -1,4 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# Lộ trình học 'Machine Learning' từ đầu cho các bạn Lập trình viên.
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -16,18 +16,17 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
-## What is it?
+## Giới thiệu
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
+Đây là kế hoạch dài hơi cho sự nghiệp học tập Machine Learning của mình. Hiện tại mình đang là một Lập trình viên mobile(Android, iOS, Blackberry) với 6 năm kinh nghiệm và không có bằng cấp Thạc sĩ, Tiến sĩ gì về Khoa học máy tính cả.
 
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
+Mục đích chính của mình là tìm một cách học Machine Learning thật hiệu quả cho các bạn không có kinh nghiệm nghiên cứu khoa học. Cách học này sẽ tập trung vào việc thực hành các ứng dụng của Machine Learning trước, sau đó mới dần đi vào lý thuyết và toàn học sau.
 
-Please, feel free to make any contributions you feel will make it better.
+Các bạn cho mình ý kiến và góp ý để hoàn thiện cách học này nhé!
 
 ---
 
-## Table of Contents
+## Mục lục
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
