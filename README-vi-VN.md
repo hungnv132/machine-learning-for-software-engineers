@@ -18,7 +18,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 
 ## Giới thiệu
 
-Đây là kế hoạch dài hơi cho sự nghiệp học tập Machine Learning của mình. Hiện tại mình đang là một Lập trình viên mobile(Android, iOS, Blackberry) với 6 năm kinh nghiệm và không có bằng cấp Thạc sĩ, Tiến sĩ gì về Khoa học máy tính cả.
+Đây là kế hoạch dài hơi mà mình sẽ thực hiện để chuyển từ một Lập trình viên di động(mình tự học, không có các cấp) sang vị trí của một kỹ sư Machine Learning. 
 
 Mục đích chính của mình là tìm một cách học Machine Learning thật hiệu quả cho các bạn không có kinh nghiệm nghiên cứu khoa học. Cách học này sẽ tập trung vào việc thực hành các ứng dụng của Machine Learning trước, sau đó mới dần đi vào lý thuyết và toàn học sau.
 
@@ -28,7 +28,7 @@ Các bạn cho mình ý kiến và góp ý để hoàn thiện cách học này 
 
 ## Mục lục
 
-- [What is it?](#what-is-it)
+- [Giới thiệu?](#gioi-thieu)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
@@ -60,23 +60,23 @@ Các bạn cho mình ý kiến và góp ý để hoàn thiện cách học này 
 
 ---
 
-## Why use it?
+## Tại sao lại học theo cách này?
 
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
-Think about my interest in machine learning:
-- [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
-- [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - *"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
-- [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - *"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
-    - *"Probability, distributed computing, and Statistics."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+Mình mong muốn trong tương lai, mình sẽ là một kỹ sư về Machine Learning. Hiện tại thì mình đang là một Lập trình viên mobile(Android, iOS, Blackberry) với 6 năm kinh nghiệm và không có bằng cấp Thạc sĩ, Tiến sĩ gì về Khoa học máy tính cả. Nền tảng kiến thức toán học của mình cũng không được tốt, mình chỉ có chút ít kiến thức về Đại số tuyến tính, Xác xuất thống kê hay Toán rời rạc từ hồi đại học.
+Do đó, điều mà mình quan tâm về Machine Learning sẽ là:
+- [Tôi có thể học và kiếm được việc làm về Machine Learning khi không có bằng Thạc sĩ hay Tiến sĩ không?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
+    - *"Được, nhưng bạn sẽ gặp nhiều khó khăn hơn khi tìm hiểu về Machine Learning."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
+- [Tôi tự học về Machine Learnng nhưng lại chưa được thực hành và áp dụng nhiều. Vậy thì làm sao tìm được một công việc về Machine Learning với vai trò là một lập trình viên?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
+    - *"Tôi đang thuê những chuyên gia về Machine Learning cho team của mình. Thực tế có rất nhiều người có bằng thạc sĩ về Machine Learning sẽ thể có được một công việc về ML, bởi vì những người đó không có hiểu sâu về Machine Learning để giải quyết vần đề của tôi."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
+- [Làm việc với Machine Learning thì đòi hỏi những kỹ năng gì?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
+    - *"Đầu tiên, bạn cần có một nền tảng tốt về Toán học. Machine Learning là một chủ đề khó và nâng cao mà hầu hết những tài liệu về nó đều khuyên bạn nên có nển tảng về toán. Thứ hai, Machine Learning là một chủ đề chung và rất rộng, trong đó có rất nhiều vấn đề nhỏ với những năng năng riêng biệt. Bạn có thể xem các khóa học, giáo trình hay tài liệu về Machine Learning của 'MS program'"* [Uri](http://softwareengineering.stackexchange.com/a/79717)
+    - *"Xác xuất, tính toán phân tán, và Thống kê."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
-I find myself in times of trouble.
+Qua những tìm hiểu đó mình cũng đã hiểu hơn về khả năng của mình.
 
-AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-- Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
-- Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
+ [Có hai kiều về Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+- Machine Learning theo hướng thực hành: Liên quan đến truy vấn cơ sở dữ liệu, làm sách dữ liệu, viết script để chuyển đổi data và gắn kết thuật toán với các thư viện để giải quyết vấn đề.
+- Machine Learning thiên về lý thuyết: Liên quan tới toán học, lý thuyết, nghiên cứu khoa học.
 
 I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
