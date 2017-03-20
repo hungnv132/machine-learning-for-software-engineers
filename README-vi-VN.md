@@ -131,43 +131,43 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 # Động lực
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
-## Machine learning overview
-- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
-- [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
-- [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-- [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
-- [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
-- [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
-- [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
+## Tổng quan về Machine learning
+- [ ] [Giới thiệu trực quan về Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [ ] [Hướng dẫn đơn giản về Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [Giới thiệu về Machine Learning dành cho Lập trình viên](http://blog.algorithmia.com/introduction-machine-learning-developers/)
+- [ ] [Những điều cơ bản về Machine learning cho người mới bắt đầu](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+- [ ] [Với những người không học Khoa học máy tính, làm sao giải thích cho họ Machine learning và Data Mining là gì?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+- [ ] [Bài viết này giải thích những căn bản của Machine learning một cách đơn giản và rõ ràng cho kẻ ngoại đạo](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
+- [ ] [Machine Learning là gì, nó hoạt động ra sao?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [ ] [Giới thiệu Deep Learning cho người ngoại đạo](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
-## Machine learning mastery
-- [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
-- [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
-- [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
-- [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+## Sự kỳ diệu của Machine learning
+- [ ] [Sự kỳ diệu của Machine learning](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [ ] [Machine Learning cho Lập trình viên](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [ ] [Những ứng dụng kỳ diệu của Machine Learning](http://machinelearningmastery.com/start-here/)
+- [ ] [Khóa học Machine Learning sử dụng Python](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+- [ ] [Khóa học về thuật toán trong Machine Learning](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
-## Machine learning is fun
-- [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-- [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
-- [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
-- [ ] [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
-- [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
-- [ ] [Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
+## Machine learning thật thú vị
+- [ ] [Machine learning thật thú vị!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [ ] [Part 2: Sử dụng Machine Learning đệ tạo ra các màn chơi trong game Super Mario](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+- [ ] [Part 3: Deep Learning và Mạng nơ-ron phức tạp](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [ ] [Part 4: Ứng dụng Deep Learning để nhận diện khuôn mặt](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
+- [ ] [Part 5: Ứng dụng Deep Learning để phiên dịch các ngôn ngữ](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
+- [ ] [Part 6: Làm sao để nhận diện giọng nói bằng Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
 
 ## [Inky Machine Learning](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)
-- [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
-- [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
+- [ ] [Part 1: Machine Learning là gì?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+- [ ] [Part 2: 'Học có giám sát' và 'học không giám sát' trong Machine Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine learning: an in-depth, non-technical guide
+## Những hướng dẫn chuyên sâu, không nặng về kỹ thuật
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
-## Stories and experiences
+## Những trải nghiệm và những câu chuyện về việc học Machine Learning
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
@@ -181,7 +181,7 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
-## Machine Learning Algorithms
+## Những thuật toán trong Machine Learning
 - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
@@ -190,12 +190,12 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
-## Beginner Books
+## Sách dành cho người mới bắt đầu
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
 - [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
 - [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
-## Practical Books
+## Sách thực hành
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
@@ -240,7 +240,7 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
-## Video Series
+## Video để học
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
@@ -283,7 +283,7 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 
-## Resources
+## Nguồn tham khảo
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
@@ -344,7 +344,7 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 - [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
-## Becoming an Open Source Contributor
+## Hãy đóng góp cho cộng đồng Mã nguồn mở
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
@@ -365,7 +365,7 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
 
-## Communities
+## Cộng đồng, các diễn đàn
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
@@ -385,13 +385,13 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-## Conferences
+## Hộ thảo
 - Neural Information Processing Systems ([NIPS](https://nips.cc/))
 - IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
 - IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
 - International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
 
-## Interview Questions
+## Những câu hỏi phỏng vấn
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
 - [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
@@ -404,5 +404,5 @@ Mỗi ngày lấy một chủ đề từ danh mục, học và note lại, rồi
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
 
 
-## My admired companies
+## Công ty tôi đang nhắm tới
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
